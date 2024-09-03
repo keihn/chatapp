@@ -1,0 +1,13 @@
+.incoming-message{
+    background-color: rgb(34, 34, 184);
+    color: #ffffff;
+    padding: 20px;
+    font-size: 24px;
+}
+.outgoing-message{
+    background-color: rgb(12, 117, 65);
+    color: #ffffff;
+    padding: 20px;
+    font-size: 24px;
+}
+
